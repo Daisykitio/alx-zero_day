@@ -1,1 +1,1 @@
-This directory is for learning about Git and GitHub.
+This directory is for learning about Git and GitHub.updated
